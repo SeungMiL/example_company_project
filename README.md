@@ -6,7 +6,7 @@
 ![웹 내가 미래다!](https://user-images.githubusercontent.com/89256060/159913404-f0a4bef1-890d-4a50-b448-c5f3d39982ed.JPG)
 
 * 웹 메뉴
-![웹 내가 미래다! 메뉴](https://user-images.githubusercontent.com/89256060/159913404-f0a4bef1-890d-4a50-b448-c5f3d39982ed.JPG)
+![웹 내가 미래다! 메뉴](https://user-images.githubusercontent.com/89256060/159913400-041aa084-15ea-4bdc-a5e4-66ada2879184.JPG)
 
 
 ## 2. 프로젝트 설명
