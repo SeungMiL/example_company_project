@@ -1,4 +1,4 @@
-# 내가 미래다 인트로 페이지 리뉴얼
+# 1. 내가 미래다 인트로 페이지 리뉴얼
 
 홈페이지 URL : https://minexamplecompany.netlify.app/
 
