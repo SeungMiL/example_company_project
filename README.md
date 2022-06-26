@@ -1,12 +1,9 @@
 # 1. 내가 미래다 인트로 페이지 리뉴얼
 
 홈페이지 URL : https://minexamplecompany.netlify.app/
+![내가미래다 인트로 및 웹 설명](https://user-images.githubusercontent.com/89256060/175824837-01896064-f4c0-4719-ad16-469901785df3.gif)
 
-* 웹
-![웹 내가 미래다!](https://user-images.githubusercontent.com/89256060/159913404-f0a4bef1-890d-4a50-b448-c5f3d39982ed.JPG)
 
-* 웹 메뉴
-![웹 내가 미래다! 메뉴](https://user-images.githubusercontent.com/89256060/159913400-041aa084-15ea-4bdc-a5e4-66ada2879184.JPG)
 
 ## 2. 역할
 * 기획 및 개발 등 전체(단독 프로젝트)
