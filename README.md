@@ -1,6 +1,7 @@
 # 1. 내가 미래다 인트로 페이지 리뉴얼
 
 홈페이지 URL : https://minexamplecompany.netlify.app/
+
 ![내가미래다 인트로 및 웹 설명](https://user-images.githubusercontent.com/89256060/175824837-01896064-f4c0-4719-ad16-469901785df3.gif)
 
 
